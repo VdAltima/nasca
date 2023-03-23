@@ -1,2 +1,0 @@
-# nasca
-project 1
